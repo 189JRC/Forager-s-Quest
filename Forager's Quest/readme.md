@@ -4,10 +4,11 @@ Video Demo:  https://youtu.be/G-2heJHq9Ns
 A command line game to help players learn to identify wild mushrooms. Players are presented with a series of URL links to anonymous mushrooms, they are then asked 3 questions about each of them. For correct answers players win 'spores'. Total spore-count is presented at the end with the player's name in a ranked score board. Maximimum spores are won for eating gourmet mushrooms, but if the player chooses to eat a mushroom that happens to be poisonous - GAME OVER.
 
 The game consists of 4 files:
-project.py: main structure of game.
-project_text.py: contains text content for the opening/closing sequence and question loop.
-mushroom.csv: contains all data for mushroom identification,; name, season, edibility, and a URL image link
-highscore.csv: contains scores, player names, and date played for all previous players.
+* project.py: main structure of game.
+* project_text.py: contains text content for the opening/closing sequence and question loop.
+* mushroom.csv: contains all data for mushroom identification,; name, season, edibility, and a URL image link
+* highscore.csv: contains scores, player names, and date played for all previous players.
+
 I chose to divide the main game into 2 files to allow the main game structure in project.py to be tidier.
 
 The game itself consists of a loop of 3 questions, repeated 5 times;
