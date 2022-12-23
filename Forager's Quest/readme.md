@@ -12,9 +12,9 @@ The game consists of 4 files:
 I chose to divide the main game into 2 files to allow the main game structure in project.py to be tidier.
 
 The game itself consists of a loop of 3 questions, repeated 5 times;
-Q1 - Identify the mushroom from an image
-Q2 - Identify the season in which it most often appears
-Q3 - Decide whether to eat it
+* Q1 - Identify the mushroom from an image
+* Q2 - Identify the season in which it most often appears
+* Q3 - Decide whether to eat it
 
 To enhance user experience and make the game replayable; mushrooms are presented in a randomised sequence. At the time of writing
 there are 11 different varieties of mushrooms in mushroom.csv. As each game loops for 5 rounds each time the game is different each time it is played. I estimate that there are up to 55,440 variations the game could take*. More mushroom data could be added to mushroom.csv to broaden the scope of the game further.
