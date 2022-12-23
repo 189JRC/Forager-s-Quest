@@ -19,7 +19,7 @@ Q3 - Decide whether to eat it
 To enhance user experience and make the game replayable; mushrooms are presented in a randomised sequence. At the time of writing
 there are 11 different varieties of mushrooms in mushroom.csv. As each game loops for 5 rounds each time the game is different each time it is played. I estimate that there are up to 55,440 variations the game could take*. More mushroom data could be added to mushroom.csv to broaden the scope of the game further.
 
-     As any forager will tell you, mushroom identification is not a straightforward task, and any given mushroom has several
+  As any forager will tell you, mushroom identification is not a straightforward task, and any given mushroom has several
 different names, e.g. Amanita Muscaria is also known as Fly Agaric. To enhance playability, I decided that the player will be presented with a multiple choice of 3 names to choose for Q1. Similarly, the answer to Q2 is effectively a multiple choice aswell.
 
   In developing Forager's Quest I did consider adaptions to allow more flexibility in user input, but as mushroom identification in
