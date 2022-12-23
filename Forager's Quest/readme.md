@@ -1,6 +1,7 @@
 Video Demo:  https://youtu.be/G-2heJHq9Ns
 
-Forager's Quest is a command line game to help players learn to identify wild mushrooms. Players are presented with a series of URL links to anonymous mushrooms, they are then asked 3 questions about each of them. For correct answers players win 'spores'. Total spore-count is presented at the end with the player's name in a ranked score board. Maximimum spores are won for eating gourmet mushrooms, but if the player chooses to eat a mushroom that happens to be poisonous - GAME OVER.
+# Forager's Quest 
+A command line game to help players learn to identify wild mushrooms. Players are presented with a series of URL links to anonymous mushrooms, they are then asked 3 questions about each of them. For correct answers players win 'spores'. Total spore-count is presented at the end with the player's name in a ranked score board. Maximimum spores are won for eating gourmet mushrooms, but if the player chooses to eat a mushroom that happens to be poisonous - GAME OVER.
 
 The game consists of 4 files:
 project.py: main structure of game.
