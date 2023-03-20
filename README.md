@@ -25,4 +25,7 @@ different names, e.g. Amanita Muscaria is also known as Fly Agaric. To enhance p
   In developing Forager's Quest I did consider adaptions to allow more flexibility in user input, but as mushroom identification in
 the real world requires precision, I thought it best to let the programme be unforgiving of user error. The spore-score for each correct answer reflects the difficulty of the question, with the highest rewards given for choosing to eat a gourmet mushroom. Naturally, the choice to eat a poisonous mushroom leads to the highest penalty of all - game over.
 
+![foragers](https://user-images.githubusercontent.com/114597036/226375100-643f2c61-dbd5-4c74-8bea-26ea8dea5846.png)
+![foragers2](https://user-images.githubusercontent.com/114597036/226375115-06ddceec-856f-4c48-85d8-69c0310092c5.png)
+![foragers3](https://user-images.githubusercontent.com/114597036/226375128-755cd1d7-48c0-4f48-80b9-64dd674597f8.png)
 
